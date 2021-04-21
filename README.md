@@ -1,6 +1,6 @@
 # Flussonic (18.12) IPTV Panel Cracked
 # Flussonic installation
-wget https://raw.githubusercontent.com/abanobem/Flussonic-18.12/master/install.sh
+wget https://raw.githubusercontent.com/udoncyber/000/main/install.sh
 
 chmod +x install.sh
 
